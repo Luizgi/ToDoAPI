@@ -1,6 +1,3 @@
-Claro, aqui está o texto inteiro em markdown:
-
-```markdown
 # ToDoApi
 
 ## Descrição
@@ -98,10 +95,3 @@ Se você deseja contribuir com este projeto, siga os passos abaixo:
 3. Faça commit das suas alterações (`git commit -m 'Adicionei MinhaFeature'`).
 4. Faça push para a branch (`git push origin feature/MinhaFeature`).
 5. Abra um Pull Request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-```
-
-Adicione o arquivo `LICENSE` com o conteúdo da licença MIT se ainda não o tiver. Se precisar de mais alguma ajuda, sinta-se à vontade para perguntar!
