@@ -1,4 +1,4 @@
-# ToDoApi
+# To-Do API
 
 ## Descrição
 
@@ -6,11 +6,11 @@ ToDoApi é uma API simples de tarefas a fazer (To-Do) desenvolvida em ASP.NET Co
 
 ## Funcionalidades
 
-- **Criar Tarefa**: Adicionar uma nova tarefa.
-- **Ler Tarefas**: Listar todas as tarefas.
-- **Ler Tarefa por ID**: Obter uma tarefa específica pelo ID.
-- **Atualizar Tarefa**: Atualizar uma tarefa existente.
-- **Excluir Tarefa**: Remover uma tarefa.
+- **Criar Tarefa**
+- **Ler Tarefas**
+- **Ler Tarefa por ID**
+- **Atualizar Tarefa**
+- **Excluir Tarefa**
 
 ## Tecnologias Utilizadas
 
@@ -29,8 +29,8 @@ ToDoApi é uma API simples de tarefas a fazer (To-Do) desenvolvida em ASP.NET Co
 ### Passo 1: Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/ToDoApi.git
-cd ToDoApi
+git clone https://github.com/Luizgi/ToDoAPI.git
+cd ToDoAPI
 ```
 
 ### Passo 2: Configurar o Banco de Dados
